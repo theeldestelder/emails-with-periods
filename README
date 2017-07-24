@@ -1,0 +1,1 @@
+Takes an email as input and returns a list of that email with periods placed throughout for use in signing up for things multiple times with the same email.
